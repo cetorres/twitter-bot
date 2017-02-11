@@ -1,0 +1,23 @@
+{
+  "name": "Bot.js",
+  "version": "1.0.0",
+  "description": "A Twitter bot that can retweet in response to the tweets matching particluar keyword",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "node bot.js"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "twitter",
+    "bot",
+    "carlos",
+    "torres"
+  ],
+  "author": "Carlos E. Torres (carlos.torres@cacira.com)",
+  "license": "http://creativecommons.org/licenses/by-sa/3.0",
+  "dependencies": {
+    "twit": "^2.2.5"
+  }
+}
