@@ -34,7 +34,7 @@ var TWITTER_SEARCH_MAX_RESULTS = 20;
 // Set tweets to reply
 var TWEETS_TO_REPLY = [
 	"Write something to reply.",
-	"Bot will ramdomly pick one of the tweets to send.",
+	"Bot will randomly pick one of the tweets to send.",
 	"Try to be very natural and human like on the replies.",
 	"Use the main Twitter handle you want to promote in all options. @MyHandle",
 	"Create 5 to 10 replies. The more options the more natural bot will look."
